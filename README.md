@@ -1,2 +1,2 @@
-# Image Recognition
-image recognition with deep learning via Pytorch
+# Deep Learning
+deep learning projects
